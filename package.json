@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ldn0x7dc/react-native-view-transformer.git"
+    "url": "git+https://github.com/andreimc/react-native-view-transformer.git"
   },
   "bugs": {
     "url": "https://github.com/ldn0x7dc/react-native-view-transformer/issues"
